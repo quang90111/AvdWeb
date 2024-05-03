@@ -17,7 +17,7 @@ if (session_status() == PHP_SESSION_NONE) {
     <!-- Slick slider -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
     <!-- slick slider -->
-    <link rel="stylesheet" href="./assets/css/lamtuan123.css">
+    <link rel="stylesheet" href="./assets/css/web2.css">
     <link rel="stylesheet" href="./assets/css/responsive1.css">
 </head>
 
@@ -30,16 +30,15 @@ if (session_status() == PHP_SESSION_NONE) {
             </a>
             <div class="header_nav d-none d-xl-flex">
                 <a class="header_name" href="product.php">Điện Thoại</a>
-                <a class="header_name" href="#">Sản phẩm IoT</a>
-                <a class="header_name" href="#">Về Vorke</a>
+                <a class="header_name" href="#">Về đầu trang</a>
                 <a href="cart.php" class="header_name header_nav-btn position-relative">Giỏ Hàng
                     <span class="position-absolute top-10 start-100 translate-middle badge rounded-pill bg-secondary cart_count"><?php
-                                                                                                                                    if (isset($_SESSION['cart'])) {
-                                                                                                                                        echo count($_SESSION['cart']);
-                                                                                                                                    } else {
-                                                                                                                                        echo 0;
-                                                                                                                                    }
-                                                                                                                                    ?>
+                        if (isset($_SESSION['cart'])) {
+                        echo count($_SESSION['cart']);
+                        } else {
+                            echo 0;
+                        }
+                    ?>
                         <span class="visually-hidden">unread messages</span></span>
                 </a>
                 <?php

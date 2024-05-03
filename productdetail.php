@@ -212,7 +212,7 @@ if (isset($_GET['id'])) {
 
         <!-- Copyright -->
         <div class="text-center p-3 copy-right" style="background-color: rgba(0, 0, 0, 0.2)">
-            © 2023 Copyright:
+            © 2024 Copyright:
             <a class="text-black" href="#">Vorke.com</a>
         </div>
         <!-- Copyright -->

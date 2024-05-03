@@ -92,29 +92,7 @@ include './homepage.php';
         </div>
     </div>
 </div>
-<!-- Update -->
-<div class="container-fluid update position-relative">
-    <img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm105-ning-23-glitter.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=7b378d24bf745a3945ba3cc89b49a020" alt="">
-    <h2 class="update_title text-center position-absolute top-0 start-50 translate-middle">Cập nhật mới nhất từ
-        Vorke</h2>
-    <p class="update_desc text-center position-absolute start-50 translate-middle">Đăng ký để nhận ngay những
-        thông tin ưu đãi, sản phẩm mới hay sự kiện đặc
-        biệt từ Vorke
-    </p>
-    <form action="#" class="form_update-email position-absolute start-50 translate-middle">
-        <div class="input-wrap">
-            <input type="text" placeholder="E-mail của bạn">
-            <button type="submit"><i class="fa-regular fa-paper-plane align-middle"></i></button>
-        </div>
-        <span class="input_error-mess"></span>
-        <p class="form_update-email-policy">
-            <input type="checkbox" name="update_email" class="circle-checkbox">
-            Tôi muốn đăng ký để nhận thông tin từ Vorke và đối tác. Khi
-            đăng ký, bạn đồng ý với
-            <span class="form_update-email-policy-link">Chính sách quyền riêng tư của Vorke</span>
-        </p>
-    </form>
-</div>
+
 <?php
 include 'footer.php';
 ?>

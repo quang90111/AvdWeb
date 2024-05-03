@@ -46,25 +46,16 @@
 
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Iphone 14 ProMax</a>
+                            <a href="#!" class="text-black text-decoration-none">Samsung Galaxy S23 FE</a>
                         </li>
                         <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Huawei Nova 3i</a>
+                            <a href="#!" class="text-black text-decoration-none">Samsung Galaxy S24 Ultra</a>
                         </li>
                         <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Iphone 12 Pro</a>
+                            <a href="#!" class="text-black text-decoration-none">Xiaomi Redmi 13C</a>
                         </li>
                         <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Iphone 11 Pro</a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Iphone 13 ProMax</a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="#!" class="text-black text-decoration-none">Iphone 12 ProMax</a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="#!" class="text-black">Xem tất cả</a>
+                            <a class="text-black " href="product.php">Xem tất cả</a>
                         </li>
                     </ul>
                 </div>
@@ -113,7 +104,7 @@
 
         <!-- Copyright -->
         <div class="text-center p-3 copy-right" style="background-color: rgba(0, 0, 0, 0.2)">
-            © 2023 Copyright:
+            © 2024 Copyright:
             <a class="text-black" href="#">Vorke.com</a>
         </div>
         <!-- Copyright -->
